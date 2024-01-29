@@ -22,6 +22,6 @@
 <p>Durante uma semana de imersão, desenvolvemos um clone de uma página do spotify aplicando as principais linguagens relacionadas ao desenvolvimento Front-End.</p>
 
 <ul>
-  <li><a href="#">Link do Projeto</a></li>
+  <li><a href="./projeto/">Link do Projeto</a></li>
 </ul>
 
