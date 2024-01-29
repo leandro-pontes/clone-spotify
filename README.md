@@ -1,4 +1,4 @@
-<h2>Imersão Front-End Alura</h2>
+<h2>🤿  Imersão Front-End Alura</h2>
 <h3>Aprendizado na prática, além do básico em Front-end</h3>
 <hr>
 
