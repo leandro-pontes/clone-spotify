@@ -3,7 +3,7 @@
 
 <p><a href="https://cursos.alura.com.br/imersao" target="_blank"></a>Link para a página de imersões Alura</p>
 
-<img src="">
+<img src="https://github.com/leandro-pontes/clone-spotify/blob/main/capa-curso.jpg">
 
 
 
