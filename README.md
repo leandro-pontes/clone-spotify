@@ -4,7 +4,7 @@
 
 <p><a href="https://www.alura.com.br/escola-front-end" target="_blank">Link para a página de curso de Front-End</a></p>
 
-<img src="https://github.com/leandro-pontes/clone-spotify/blob/main/capa-curso.jpg">
+<img src="https://leandro-pontes.github.io/clone-spotify/blob/main/capa-curso.jpg">
 
 <h3>🚀 Tecnologias</h3>
 <p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
