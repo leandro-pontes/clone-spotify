@@ -2,7 +2,7 @@
 <h3>Aprendizado na prática, além do básico em Front-end</h3>
 <hr>
 
-<p><a href="https://cursos.alura.com.br/imersao" target="_blank"></a>Link para a página de imersões Alura</p>
+<p><a href="https://www.alura.com.br/escola-front-end" target="_blank">Link para a página de imersões Alura</a></p>
 
 <img src="https://github.com/leandro-pontes/clone-spotify/blob/main/capa-curso.jpg">
 
